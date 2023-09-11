@@ -37,7 +37,7 @@ const AppointmentDetail = ({navigation, route}: any) => {
         }}>
         <BackButtonHeader showPages={false} />
         <View height={verticalScale(10)} />
-        <View style={{paddingHorizontal: '6%'}}>
+        <View style={{paddingHorizontal: '5%'}}>
           <ScrollView showsVerticalScrollIndicator={false}>
             <View
               style={{
