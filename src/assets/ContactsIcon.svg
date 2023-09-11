@@ -1,0 +1,32 @@
+<svg
+  width="21"
+  height="22"
+  viewBox="0 0 21 22"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+<path
+    d="M5.62012 1.62012H1.62012V20.6201H5.62012V1.62012Z"
+    stroke="currentColor"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+  />
+<path
+    d="M5.62012 1.62012V20.6201H19.6201V1.62012H5.62012Z"
+    stroke="currentColor"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+  />
+<path
+    d="M12.6201 10.0303C13.7247 10.0303 14.6201 9.13484 14.6201 8.03027C14.6201 6.9257 13.7247 6.03027 12.6201 6.03027C11.5155 6.03027 10.6201 6.9257 10.6201 8.03027C10.6201 9.13484 11.5155 10.0303 12.6201 10.0303Z"
+    stroke="currentColor"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+  />
+<path
+    d="M9.62012 16.2197V14.2197C9.62012 13.1197 10.5201 12.2197 11.6201 12.2197H13.6201C14.7201 12.2197 15.6201 13.1197 15.6201 14.2197V16.2197"
+    stroke="currentColor"
+    stroke-width="1.5"
+    stroke-miterlimit="10"
+  />
+</svg>

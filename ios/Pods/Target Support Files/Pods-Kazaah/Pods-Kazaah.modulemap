@@ -1,0 +1,6 @@
+module Pods_Kazaah {
+  umbrella header "Pods-Kazaah-umbrella.h"
+
+  export *
+  module * { export * }
+}

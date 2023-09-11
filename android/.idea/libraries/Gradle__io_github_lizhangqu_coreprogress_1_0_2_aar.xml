@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.lizhangqu:coreprogress:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/858d53c7b631912a34ef84e41ad8e4da/transformed/jetified-coreprogress-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4851e0b1ef4c8ee05b5cfe1af2f1f957/transformed/jetified-coreprogress-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/858d53c7b631912a34ef84e41ad8e4da/transformed/jetified-coreprogress-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/858d53c7b631912a34ef84e41ad8e4da/transformed/jetified-coreprogress-1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.lizhangqu/coreprogress/1.0.2/ba05c5361615de4645148063a959c63afdbdf8a8/coreprogress-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.lizhangqu/coreprogress/1.0.2/4d8bc6e9aa1a93feb19d391f0da342ea30bf4eb/coreprogress-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "734848430875",
+    "project_id": "kazzah-app",
+    "storage_bucket": "kazzah-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734848430875:android:e0c260528ae2b428ee59be",
+        "android_client_info": {
+          "package_name": "com.kazzah.member"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734848430875-r3br5itf9nmatd4sniv10f06lrg3jeaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCYmO-iNFZhHghbpOCoLnG5ztdsDo18I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734848430875-r3br5itf9nmatd4sniv10f06lrg3jeaf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "734848430875-d413mr18o9us0b96nmtt3271aopp4pcb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.Kazaah.Member"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
